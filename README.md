@@ -9,6 +9,7 @@ In this study, our ultimate goal is to develop a branch reconstruction algorithm
 In the orchard environment, the growth posture of passion fruit branches is random, to better identify and reconstruct the branches, in this study, we adopted the labeling method proposed by Yang et al. [19] to represent randomly growing branches with regular-shaped quadrilaterals, which effectively reduces the complexity of detecting the original branches. Figure 2 shows the effect of image annotation. To better represent a branch, the aspect ratio of the quadrilateral was set in the range of 2 to 4, and a smaller quadrilateral mark was used for branches with a larger curvature.
 
 Data augmentation on the original dataset can increase the diversity and robustness of the experimental dataset. Considering the actual interference factors of the natural environment, several processes were used in the augmentation including adding noise, adding blur, mirror flip, rotating, adjust image brightness, etc.. By performing the augmentation described above, a dataset containing 1742 images was created and used to train and test the Mask R-CNN model.
+
 ![fig2](/images/FIGURE2.png)
 
 ## Downloads
