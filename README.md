@@ -15,8 +15,8 @@ Data augmentation on the original dataset can increase the diversity and robustn
 ## Downloads
 The passion-fruit-tree-branches dataset and annotations can be downloaded through Baidu Cloud:
 
-    Link: https://  
-    password：
+    Link: https://pan.baidu.com/s/1Z11TZIsTzYx_BKx-u2v9WA  
+    password：dcu6
 
 ## License
 The dataset is available to download for commercial/research purposes under a Creative Commons Attribution-ShareAlike 4.0 International License. The copyright remains with the original owners of the images.
